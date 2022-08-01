@@ -12,7 +12,7 @@ import android.view.MenuItem
 import com.example.practice_1.databinding.ActivityMainBinding
 import android.widget.Toast
 
-class MainActivity : AppCompatActivity() {
+class EntryActivity : AppCompatActivity() {
 
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
